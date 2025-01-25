@@ -2,6 +2,7 @@
 
 fn main() {
     let is_morning = true;
+    let is_evening:bool = true;
     if is_morning {
         println!("Good morning!");
     }
